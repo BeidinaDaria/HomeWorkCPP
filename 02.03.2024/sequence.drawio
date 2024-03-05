@@ -1,0 +1,94 @@
+<mxfile host="app.diagrams.net" modified="2024-03-05T12:19:00.624Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="0F05wSTXutOouqMB3xoQ" version="24.0.1" type="device">
+  <diagram name="Page-1" id="90a13364-a465-7bf4-72fc-28e22215d7a0">
+    <mxGraphModel dx="988" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" style=";html=1;" />
+        <mxCell id="1" style=";html=1;" parent="0" />
+        <mxCell id="5wQSivl34kQfArLx-pBq-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5wQSivl34kQfArLx-pBq-1" target="5wQSivl34kQfArLx-pBq-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="145" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5wQSivl34kQfArLx-pBq-1" value="Клиент" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5wQSivl34kQfArLx-pBq-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5wQSivl34kQfArLx-pBq-2" target="5wQSivl34kQfArLx-pBq-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5wQSivl34kQfArLx-pBq-2" value="Сотрудник барбершопа" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5wQSivl34kQfArLx-pBq-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5wQSivl34kQfArLx-pBq-7" target="5wQSivl34kQfArLx-pBq-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5wQSivl34kQfArLx-pBq-7" value="Совершает звонок" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5wQSivl34kQfArLx-pBq-9" value="Отвечает на звонок" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5wQSivl34kQfArLx-pBq-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5wQSivl34kQfArLx-pBq-11" target="5wQSivl34kQfArLx-pBq-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5wQSivl34kQfArLx-pBq-11" value="Запрашивает услугу на определенное время" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5wQSivl34kQfArLx-pBq-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5wQSivl34kQfArLx-pBq-13" target="5wQSivl34kQfArLx-pBq-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5wQSivl34kQfArLx-pBq-13" value="Проверяет свободно ли данное время у мастеров" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5wQSivl34kQfArLx-pBq-15" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="5wQSivl34kQfArLx-pBq-11" target="5wQSivl34kQfArLx-pBq-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="350" as="sourcePoint" />
+            <mxPoint x="530" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5wQSivl34kQfArLx-pBq-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5wQSivl34kQfArLx-pBq-19" target="5wQSivl34kQfArLx-pBq-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5wQSivl34kQfArLx-pBq-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5wQSivl34kQfArLx-pBq-19" target="5wQSivl34kQfArLx-pBq-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5wQSivl34kQfArLx-pBq-19" value="Если мастер свободен в данное время" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="385" y="340" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5wQSivl34kQfArLx-pBq-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5wQSivl34kQfArLx-pBq-21" target="5wQSivl34kQfArLx-pBq-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5wQSivl34kQfArLx-pBq-21" value="Подтверждает запись" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5wQSivl34kQfArLx-pBq-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="5wQSivl34kQfArLx-pBq-24" target="5wQSivl34kQfArLx-pBq-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="170" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5wQSivl34kQfArLx-pBq-24" value="Предлагает другое время/мастера" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5wQSivl34kQfArLx-pBq-26" value="Прощается и отключается" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5wQSivl34kQfArLx-pBq-28" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.563;exitY=-0.05;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="5wQSivl34kQfArLx-pBq-26" target="5wQSivl34kQfArLx-pBq-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="350" as="sourcePoint" />
+            <mxPoint x="530" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
